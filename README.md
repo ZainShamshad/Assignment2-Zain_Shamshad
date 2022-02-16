@@ -26,6 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+Angular Assignment 2 - creating components,
+one & two way binding,
+@input & @Output,
+ngxtoast(Toaster),
+Elegant UI,
+Parent Child Components,
+Users login with account suspension logic
+
 
 On Start
 ![on start login page](https://user-images.githubusercontent.com/97530221/154283015-c90718f9-44f4-4934-a1c8-baeb478e8d6d.png)
